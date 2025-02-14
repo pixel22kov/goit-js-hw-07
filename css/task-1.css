@@ -1,8 +1,4 @@
 
-.main-container{
-    padding: 24px;
-}
-
 .main-list {
     display: flex;
     flex-direction: column;
