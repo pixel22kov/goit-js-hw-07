@@ -1,0 +1,36 @@
+.main-wrapper{
+    border-radius: 8px;
+    padding: 32px;
+    width: 486px;
+    height: 104px;
+    background-color: #f6f6fe;
+    display: flex;
+    gap: 16px;
+}
+
+.main-input{
+    border: 1px solid #808080;
+    border-radius: 8px;
+    padding: 8px 72px;
+    width: 150px;
+    height: 40px;
+}
+
+.button{
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4e75ff;
+}
+
+.destroy-button{
+    background-color: #ff4e4e;
+}
